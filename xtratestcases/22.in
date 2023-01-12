@@ -1,0 +1,3 @@
+path /bin /cs5348-xv6/sxg200139/P1
+cd test & myhello & myls
+exit

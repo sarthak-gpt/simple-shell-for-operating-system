@@ -1,6 +1,6 @@
 # Operating-System-Class-Project---Shell-Program
 
-CS Operating Systems Project 1: Shell Program
+CS 5348 Operating Systems Project 1: Shell Program
 
 Unix Shell
 -----------------------------------------------------------------------------------------------------
